@@ -23,9 +23,10 @@ const About = (): JSX.Element => {
 					<p className = "text-sm text-gray-600">
 						Research Interest: {personalInfo.about.interest}
 					</p>
-					<p className = "text-sm text-gray-400">
-						Under construction......<br/>
-						Re-architecting this site with some modern web technologies.
+					<p className = "text-sm text-gray-600">
+					Hi I’m Yannick, a PhD Student working on Human-AI Communication, researching reinforcement learning from human feedback, interactive visualizations for explainability, and uncertainty in RL. 
+					My main research aim is the improvement of bi-directional communication between humans and AI agents for effective learning and alignment. 
+					Right now, I focus on the use of rich and diverse human feedback for RLHF.
 					</p>
 				</div>
 			</div>

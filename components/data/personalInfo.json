@@ -1,12 +1,13 @@
 {
-    "title": "Harry Potter",
-    "name": "Harry James Potter",
+    "title": "Yannick Metz",
+    "name": "Yannick Metz",
     "domain":"https://nextjs-academic-theme.vercel.app/",
-    "copyright":"harrypotter.me",
+    "copyright":"ymetz.github.io",
     "socialMedia": {
-        "Twitter": "https://twitter.com/",
-        "LinkedIn": "https://www.linkedin.com/",
-        "GoogleScholar": "https://scholar.google.com/"
+        "Twitter": "https://x.com/metz_yannick",
+        "LinkedIn": "https://www.linkedin.com/in/yannick-metz-941196128/",
+        "GoogleScholar": "https://scholar.google.de/citations?user=AhpvfdIAAAAJ",
+        "Github": "https://www.github.com/ymetz"
     },
     "about": {
         "year": "7th-year",
@@ -15,25 +16,25 @@
             "link": "https://harrypotter.fandom.com/wiki/Gryffindor"
         },
         "college": {
-            "name": "Hogwarts School of Witchcraft and Wizardry",
+            "name": "University of konstanz & ETH Zurich",
             "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
         },
         "advisor": {
-            "name": "Albus Dumbledor",
-            "link": "https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
+            "name": "Daniel Keim & Mennatallah El-Assady",
+            "link": ""
         },
-        "email": "harrypotter AT MyUniversity",
-        "interest": "Defense against Dark Arts Spell; Dark Creatures"
+        "email": "yannick.metz@uni-konstanz.de",
+        "interest": "Reinforcement Learning from Human Feedback, Human-AI Interaction, Explainable AI, Visual Analytics"
     },
-    "love": "https://harrypotter.fandom.com/wiki/James_and_Lily_Potter",
+    "love": "",
     "education": [
         {
-            "name": "The Auror Department(2007-2008, Visiting Scholar)",
-            "link": "https://harrypotter.fandom.com/wiki/British_Auror_Office"
+            "name": "PhD Student in Computer Science (since 2021), University of Konstanz",
+            "link": "https://www.informatik.uni-konstanz.de"
         },
         {
-            "name": "Hogwarts Primary University(1911-1988, Bachelor's in Magic)",
-            "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
+            "name": "Bachelor and Master in Computer Science (2014-2021), University of Konstanz",
+            "link": "https://www.informatik.uni-konstanz.de"
         }
     ]
 
