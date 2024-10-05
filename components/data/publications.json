@@ -1,106 +1,226 @@
 [
 	{
-		"id": 5,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Towards Generalized Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
-		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
-		]
-	},
-
+        "id": 1,
+        "author": "Yannick Metz, David Lindner, Rapha{\"e}l Baur, Daniel A. Keim, Mennatallah El-Assady",
+        "title": "RLHF-Blender: A Configurable Interactive Interface for Learning from Diverse Human Feedback",
+        "conference": "ICML2023 Interactive Learning from Implicit Human Feedback Workshop",
+        "year": 2023,
+        "links": [
+            {
+                "name": "pdf",
+                "url": ""
+            },
+            {
+                "name": "slides",
+                "url": ""
+            },
+            {
+                "name": "video",
+                "url": ""
+            }
+        ]
+    },
 	{
-		"id": 4,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Rethinking Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
-		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
-		]
-	},
-
+        "id": 2,
+        "author": "Yannick Metz, Eugene Bykovets, Lucas Joos, Daniel A. Keim, Mennatallah El-Assady",
+        "title": "Visitor: Visual interactive state sequence exploration for reinforcement learning",
+        "conference": "Computer Graphics Forum",
+        "volume": "42",
+        "number": "3",
+        "pages": "397--408",
+        "year": 2023,
+        "links": [
+            {
+                "name": "pdf",
+                "url": ""
+            },
+            {
+                "name": "slides",
+                "url": ""
+            },
+            {
+                "name": "video",
+                "url": ""
+            }
+        ]
+    },
 	{
-		"id": 3,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Pushing the Limits of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
-		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
-		]
-	},
-
+        "id": 3,
+        "author": "Yannick Metz, Udo Schlegel, Daniel Seebacher, Mennatallah El-Assady, Daniel A. Keim",
+        "title": "A comprehensive workflow for effective imitation and reinforcement learning with visual analytics",
+        "conference": "EuroVA 2022",
+        "year": 2022,
+        "links": [
+            {
+                "name": "pdf",
+                "url": ""
+            },
+            {
+                "name": "slides",
+                "url": ""
+            },
+            {
+                "name": "video",
+                "url": ""
+            }
+        ]
+    },
 	{
-		"id": 2,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Defensing Against the Dark Arts Spells based on Reductor Curse",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
-		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
-		]
-	},
-
+        "id": 4,
+        "author": "Eugene Bykovets, Yannick Metz, Mennatallah El-Assady, Daniel A. Keim, Joachim M Buhmann",
+        "title": "How to Enable Uncertainty Estimation in Proximal Policy Optimization",
+        "conference": "arXiv preprint arXiv:2210.03649",
+        "year": 2022,
+        "links": [
+            {
+                "name": "pdf",
+                "url": ""
+            },
+            {
+                "name": "slides",
+                "url": ""
+            },
+            {
+                "name": "video",
+                "url": ""
+            }
+        ]
+    },
 	{
-		"id": 1,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "A Survey of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
-		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
-		]
-	}
+        "id": 5,
+        "author": "Dirk Streeb, Yannick Metz, Udo Schlegel, Bruno Schneider, Mennatallah El-Assady, Hansj{\"o}rg Neth, Min Chen, Daniel A. Keim",
+        "title": "Task-based visual interactive modeling: Decision trees and rule-based classifiers",
+        "conference": "IEEE Transactions on Visualization and Computer Graphics",
+        "volume": "28",
+        "number": "9",
+        "pages": "3307--3323",
+        "year": 2021,
+        "publisher": "IEEE",
+        "links": [
+            {
+                "name": "pdf",
+                "url": ""
+            },
+            {
+                "name": "slides",
+                "url": ""
+            },
+            {
+                "name": "video",
+                "url": ""
+            }
+        ]
+    },
+	{
+        "id": 6,
+        "author": "Yannick Metz, Dennis Ackermann, Daniel A. Keim, Maximilian T Fischer",
+        "title": "Interactive Public Transport Infrastructure Analysis through Mobility Profiles: Making the Mobility Transition Transparent",
+        "conference": "arXiv preprint arXiv:2407.10791",
+        "year": 2024,
+        "links": [
+            {
+                "name": "pdf",
+                "url": ""
+            },
+            {
+                "name": "slides",
+                "url": ""
+            },
+            {
+                "name": "video",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "author": "Maximilian C Hartmann, Moritz Schott, Alishiba Dsouza, Yannick Metz, Michele Volpi, Ross S Purves",
+        "title": "A text and image analysis workflow using citizen science data to extract relevant social media records: Combining red kite observations from Flickr, eBird and iNaturalist",
+        "conference": "Ecological Informatics",
+        "volume": "71",
+        "pages": "101782",
+        "year": 2022,
+        "publisher": "Elsevier",
+        "links": [
+            {
+                "name": "pdf",
+                "url": ""
+            },
+            {
+                "name": "slides",
+                "url": ""
+            },
+            {
+                "name": "video",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "author": "Mennatallah El-Assady, Rebecca Kehlbeck, Yannick Metz, Udo Schlegel, Rita Sevastjanova, Fabian Sperrle, Thilo Spinner",
+        "title": "Semantic color mapping: A pipeline for assigning meaningful colors to text",
+        "conference": "2022 IEEE 4th Workshop on Visualization Guidelines in Research, Design, and Education (VisGuides)",
+        "pages": "16--22",
+        "year": 2022,
+        "publisher": "IEEE",
+        "links": [
+            {
+                "name": "pdf",
+                "url": ""
+            },
+            {
+                "name": "slides",
+                "url": ""
+            },
+            {
+                "name": "video",
+                "url": ""
+            }
+        ]
+    },
+	{
+        "id": 9,
+        "author": "Yannick Metz",
+        "title": "Effective Imitation and Reinforcement Learning Through Visual Analytics",
+        "conference": "Masters Thesis",
+        "school": "Universit{\"a}t Konstanz",
+        "year": 2021,
+        "links": [
+            {
+                "name": "pdf",
+                "url": ""
+            },
+            {
+                "name": "slides",
+                "url": ""
+            },
+            {
+                "name": "video",
+                "url": ""
+            }
+        ]
+    },
+	{
+        "id": 10,
+        "author": "Yannick Metz",
+        "title": "Evaluating Concept Attributions for the Interpretability of Deep Neural Networks",
+        "conference": "PhD Thesis",
+        "school": "Universit{\"a}t Konstanz",
+        "year": 2019,
+        "links": [
+            {
+                "name": "pdf",
+                "url": ""
+            },
+            {
+                "name": "slides",
+                "url": ""
+            },
+            {
+                "name": "video",
+                "url": ""
+            }
+        ]
+    }
 ]

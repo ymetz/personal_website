@@ -2,19 +2,19 @@
     {
         "title": "RLHF-Blender",
         "description": "",
-        "img": "/images/projects/rules.png"
+        "img": "/images/projects/rlhfblender_interface.png"
     },
 
     {
         "title": "SmartGPT UI",
         "description": "A UI implementation of AIExplianed's SmartGPT 2.0",
-        "img": "/images/projects/quidditch.png"
+        "img": "/images/projects/smartgpt_screenshot.png"
     },
 
     {
         "title": "Tackling the ARC Challenge with Object-Centric World Models",
         "description": "A project to tackle Fracois Chhollet's ARC Challenge with Object-Centric World Models and Reinforcement Learning",
-        "img": "/images/projects/rules.png"
+        "img": "/images/projects/arc_screenshot.png"
     },
 
     {

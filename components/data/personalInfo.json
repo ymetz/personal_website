@@ -12,12 +12,12 @@
     "about": {
         "year": "4th-year",
         "department": {
-            "name": "Gryffindor",
-            "link": "https://harrypotter.fandom.com/wiki/Gryffindor"
+            "name": "Computer Science",
+            "link": "https://www.vis.uni-konstanz.de/mitglieder/metz"
         },
         "college": {
-            "name": "University of konstanz & ETH Zurich",
-            "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
+            "name": "University of Konstanz & ETH Zurich",
+            "link": "https://www.vis.uni-konstanz.de/"
         },
         "advisor": {
             "name": "Daniel Keim & Mennatallah El-Assady",
